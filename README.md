@@ -1,0 +1,2 @@
+# ww_running_gnom_in_batch
+ww_running_gnom_in_batch
